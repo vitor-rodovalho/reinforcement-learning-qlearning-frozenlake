@@ -1,5 +1,5 @@
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
-![Game Theory](https://img.shields.io/badge/Area-Reinforcement%20Learning-orange.svg)
+![Area](https://img.shields.io/badge/Area-Reinforcement%20Learning-orange.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
